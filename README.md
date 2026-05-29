@@ -13,7 +13,7 @@ Este proyecto fue desarrollado en Java y tiene como objetivo demostrar el uso de
 1. Compilar los archivos:
 
 ```bash
-javac src/main/java/com/example/*.java
+javac src/app.java
 ```
 
 2. Ejecutar el programa:
